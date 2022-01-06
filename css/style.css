@@ -1,0 +1,68 @@
+/* #e2e2e2; */
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.logo-inter{
+    width:2em;
+    height: 2em;
+}
+
+.navbar{
+    background-color: #aeedeb;
+}
+
+.quemSomos{
+    background-color: #208fd8;
+    text-align: center;
+    padding: 20px 0 50px 0;
+
+}
+
+.quemSomos img{
+    width: 15em;
+    height: 15em;
+    border-radius: 10em;
+}
+
+.nav-item a{
+    margin: 1em;
+}
+
+h2{
+    color: #ffff;
+}
+
+.parceiros{
+    background-color: #aeedeb;
+    text-align: center;
+    padding: 20px 0 50px 0;
+}
+.parceiros img{
+    width: 15em;
+    height: 15em;
+    border-radius: 10em;
+}
+
+.servicos{
+    background-color:#2098d9;
+    text-align: center;
+    padding: 20px 0 50px 0;
+}
+.servicos p{
+    padding: 10px 0  10px 0;
+}
+.servicos img{
+    width: 15em;
+    height: 15em;
+    border-radius: 10em;
+}
+.rodape{
+    background-color: #000;
+    padding: 10px 0 10px 0;
+}
+.rodape p{
+    color: #ffff;
+    text-align: center;
+    font-size: 12px;
+    font-family: cursive;
+}
